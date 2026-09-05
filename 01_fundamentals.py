@@ -135,3 +135,13 @@ print(volume)
 #     Start with: x = 5, y = 10
 #     After swap: x should be 10, y should be 5
 #     Print both after swapping.
+
+x = 5
+y = 10
+
+x, y = y, x
+
+print("x =", x)
+print("y =", y)
+
+# --------------------------------------------------------
