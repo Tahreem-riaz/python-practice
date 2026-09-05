@@ -16,3 +16,10 @@ Total Questions: 12
 print("PYTHON 3 >>> [START]")
 
 # --------------------------------------------------------
+
+# Q2. Print a product label containing:
+#     - A product name
+#     - A product code
+#     - Special characters
+#
+#     Create the label yourself.
