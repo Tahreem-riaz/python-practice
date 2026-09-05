@@ -120,3 +120,13 @@ print(points)
 #     height = 5
 #
 #     Store the volume in another variable and print it.
+
+length = 15
+width = 8
+height = 5
+
+volume = length * width * height
+
+print(volume)
+
+# --------------------------------------------------------
