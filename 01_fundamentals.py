@@ -105,3 +105,10 @@ print("Product:", product)
 #     Store the points in a variable.
 #     Add 250 points to it.
 #     Print the updated score.
+
+points = 100
+points = points + 250
+
+print(points)
+
+# --------------------------------------------------------
