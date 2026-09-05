@@ -50,3 +50,11 @@ print("==============================")
 #     Create variables for the quantity and price.
 #     Store the total cost in another variable.
 #     Print the total.
+
+quantity = 12
+price = 80
+total_cost = quantity * price
+
+print(total_cost)
+
+# --------------------------------------------------------
