@@ -76,3 +76,12 @@ print("Release Year:", release_year)
 print("Rating:", rating)
 
 # --------------------------------------------------------
+
+# Q6. Create two variables containing different numbers.
+#
+#     Create separate variables to store:
+#     - Their sum
+#     - Their difference
+#     - Their product
+#
+#     Print all three results.
