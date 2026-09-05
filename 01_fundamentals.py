@@ -13,3 +13,6 @@ Total Questions: 12
 # Q1. Print a short Python-themed banner using letters,
 #     digits, spaces, and special characters.
 
+print("PYTHON 3 >>> [START]")
+
+# --------------------------------------------------------
