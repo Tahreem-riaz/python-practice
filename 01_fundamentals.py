@@ -85,3 +85,17 @@ print("Rating:", rating)
 #     - Their product
 #
 #     Print all three results.
+
+number1 = 20
+number2 = 5
+
+sum_result = number1 + number2
+difference = number1 - number2
+product = number1 * number2
+
+print("Sum:", sum_result)
+print("Difference:", difference)
+print("Product:", product)
+
+
+# --------------------------------------------------------
