@@ -159,3 +159,14 @@ print("y =", y)
 #
 #     Assign suitable values and print them.
 
+employee_salary = 50000
+phone_number = "03001234567"
+department_name = "Computer Science"
+joining_year = 2026
+
+print("Employee Salary:", employee_salary)
+print("Phone Number:", phone_number)
+print("Department Name:", department_name)
+print("Joining Year:", joining_year)
+
+# --------------------------------------------------------
