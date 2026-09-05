@@ -9,3 +9,7 @@ Total Questions: 12
 # ========================================================
 # PART A: PYTHON CHARACTER SET
 # ========================================================
+
+# Q1. Print a short Python-themed banner using letters,
+#     digits, spaces, and special characters.
+
