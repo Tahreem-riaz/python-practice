@@ -58,3 +58,21 @@ total_cost = quantity * price
 print(total_cost)
 
 # --------------------------------------------------------
+
+# Q5. Create variables to store the details of a movie:
+#
+#     - Movie title
+#     - Release year
+#     - Rating
+#
+#     Display the information using print().
+
+movie_title = "Inception"
+release_year = 2010
+rating = 8.8
+
+print("Movie Title:", movie_title)
+print("Release Year:", release_year)
+print("Rating:", rating)
+
+# --------------------------------------------------------
