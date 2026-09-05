@@ -112,3 +112,11 @@ points = points + 250
 print(points)
 
 # --------------------------------------------------------
+
+ Q8. Create three variables for the dimensions of a box:
+#
+#     length = 15
+#     width = 8
+#     height = 5
+#
+#     Store the volume in another variable and print it.
