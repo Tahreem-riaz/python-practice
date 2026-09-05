@@ -99,3 +99,9 @@ print("Product:", product)
 
 
 # --------------------------------------------------------
+
+# Q7. A game player starts with 100 points.
+#
+#     Store the points in a variable.
+#     Add 250 points to it.
+#     Print the updated score.
