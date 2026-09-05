@@ -23,3 +23,9 @@ print("PYTHON 3 >>> [START]")
 #     - Special characters
 #
 #     Create the label yourself.
+
+print("Product: Python Notebook")
+print("Code: PY-2026")
+print("Price: $80.00")
+
+# --------------------------------------------------------
