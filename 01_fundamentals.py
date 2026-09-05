@@ -44,3 +44,9 @@ print("==============================")
 # ========================================================
 # PART B: VARIABLES
 # ========================================================
+
+# Q4. A shop has 12 notebooks, each costing 80.
+#
+#     Create variables for the quantity and price.
+#     Store the total cost in another variable.
+#     Print the total.
