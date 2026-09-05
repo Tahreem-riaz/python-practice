@@ -35,3 +35,8 @@ print("Price: $80.00")
 #
 #     Your output should look like a small terminal
 #     welcome screen.
+
+print("==============================")
+print(">>> WELCOME TO PYTHON <<<")
+print("==============================")
+
