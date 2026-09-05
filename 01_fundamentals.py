@@ -149,3 +149,13 @@ print("y =", y)
 # ========================================================
 # PART C: RULES OF IDENTIFIERS
 # ========================================================
+
+# Q10. Create valid Python identifiers for these items:
+#
+#     - employee salary
+#     - phone number
+#     - department name
+#     - joining year
+#
+#     Assign suitable values and print them.
+
