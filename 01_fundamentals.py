@@ -29,3 +29,9 @@ print("Code: PY-2026")
 print("Price: $80.00")
 
 # --------------------------------------------------------
+
+# Q3. Create and print a three-line message using
+#     different characters and symbols.
+#
+#     Your output should look like a small terminal
+#     welcome screen.
