@@ -32,5 +32,16 @@ print("Total Cost:", total_cost, "PKR")
 #     - Area
 #     - Perimeter
 
+length = 24
+width = 9
+
+area = length * width
+perimeter = 2 * (length + width)
+
+print("Area:", area, "cm²")
+print("Perimeter:", perimeter, "cm")
+
+# --------------------------------------------------------
+
 
 
