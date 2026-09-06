@@ -65,6 +65,14 @@ print("Can Unlock Level:", can_unlock)
 # PART C: ASSIGNMENT OPERATORS
 # ========================================================
 
+# Q4. A wallet initially contains 2,000 PKR.
+#
+#     Using assignment operators:
+#     - Add 500
+#     - Subtract 250
+#     - Add 1,000
+#
+#     Print the balance after each operation.
 
 
 
