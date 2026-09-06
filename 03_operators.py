@@ -25,4 +25,12 @@ print("Total Cost:", total_cost, "PKR")
 
 # --------------------------------------------------------
 
+# Q2. A rectangle has a length of 24 cm and a width
+#     of 9 cm.
+#
+#     Calculate and print:
+#     - Area
+#     - Perimeter
+
+
 
