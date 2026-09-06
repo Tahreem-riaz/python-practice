@@ -169,6 +169,23 @@ print("Result 4:", result4, type(result4))
 # Finally, explain in a comment why the two results
 # have different data types.
 
+number = 12
+decimal = 4.5
+text = "12"
+
+print(number + decimal)
+print(text + str(number))
+print(type(number + decimal))
+print(type(text + str(number)))
+
+# Line 1: 16.5
+# Line 2: 1212
+# Line 3: <class 'float'>
+# Line 4: <class 'str'>
+
+# The first result is a float because an integer and a decimal
+# number are added together. The second result is a string
+# because both values are treated as text and joined together.
 
 
 
