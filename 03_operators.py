@@ -47,6 +47,13 @@ print("Perimeter:", perimeter, "cm")
 # PART B: COMPARISON OPERATORS
 # ========================================================
 
+# Q3. A game requires a player to have at least
+#     500 points to unlock the next level.
+#
+#     Store the player's score in a variable.
+#     Check whether the player can unlock the level.
+
+
 
 
 
