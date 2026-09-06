@@ -53,6 +53,15 @@ print("Perimeter:", perimeter, "cm")
 #     Store the player's score in a variable.
 #     Check whether the player can unlock the level.
 
+player_score = 650
+
+can_unlock_level = player_score >= 500
+
+print("Can Unlock Level:", can_unlock)
+
+# --------------------------------------------------------
+
+
 
 
 
