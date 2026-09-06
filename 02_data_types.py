@@ -109,6 +109,16 @@ print(item_number, type(item_number))
 # Choose the appropriate data type for each.
 # Print every value along with its type.
 
+pages = 350
+price = 750.5
+title = "Python Programming"
+available = True
+complex_number = 5 + 3j
 
+print("Pages:", pages, type(pages))
+print("Price:", price, type(price))
+print("Title:", title, type(title))
+print("Available:", available, type(available))
+print("Complex Number:", complex_number, type(complex_number))
 
 
