@@ -81,3 +81,12 @@ print(software_version, type(software_version))
 print(github_repository, type(github_repository))
 
 # --------------------------------------------------------
+
+# Q5. Create two variables:
+#
+#     item_code = "A102"
+#     item_number = 102
+#
+#     Print their values and data types.
+#
+#     Observe the difference between the two.
