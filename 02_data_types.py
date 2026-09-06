@@ -135,6 +135,17 @@ print("Complex Number:", complex_number, type(complex_number))
 # Pay attention to the difference between
 # text, numbers, decimals, and Boolean values.
 
+result1 = "10" + "20"
+result2 = 10 + 20
+result3 = 10 * 2.5
+result4 = 8 > 3
+
+print("Result 1:", result1, type(result1))
+print("Result 2:", result2, type(result2))
+print("Result 3:", result3, type(result3))
+print("Result 4:", result4, type(result4))
+
+# --------------------------------------------------------
 
 
 
