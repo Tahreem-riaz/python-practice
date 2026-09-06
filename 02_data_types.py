@@ -63,3 +63,11 @@ print(float2, type(float2))
 # ========================================================
 # PART B: STRING
 # ========================================================
+
+# Q4. Create variables to store:
+#
+#     - A programming language
+#     - A software version
+#     - A GitHub repository name
+#
+#     Print each value and its type.
