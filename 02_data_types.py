@@ -98,3 +98,17 @@ print(item_code, type(item_code))
 print(item_number, type(item_number))
 
 # --------------------------------------------------------
+
+# Q6. Create variables representing:
+#     Number of pages in a book
+#     Price of the book
+#     Title of the book
+#     Whether the book is available
+#     A complex number
+#
+# Choose the appropriate data type for each.
+# Print every value along with its type.
+
+
+
+
