@@ -91,6 +91,14 @@ print("After Adding 1000:", balance)
 # PART D: LOGICAL OPERATORS
 # ========================================================
 
+# Q5. A student can enter a competition if:
+#
+#     - Their age is at least 18
+#     - AND they have a valid registration
+#
+#     Create suitable variables and use the 'and'
+#     operator to determine whether they can participate.
+
 
 
 
