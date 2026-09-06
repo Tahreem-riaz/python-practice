@@ -16,3 +16,11 @@ Total Questions: 12
 #
 #     Create variables for both values.
 #     Print each value and its data type.
+
+number_of_books = 245
+donated_materials = 18.5
+
+print(number_of_books, type(number_of_books))
+print(donated_materials, type(donated_materials))
+
+# --------------------------------------------------------
