@@ -147,5 +147,30 @@ print("Result 4:", result4, type(result4))
 
 # --------------------------------------------------------
 
+# Q8. Predict the output BEFORE running the program:
+#
+#     number = 12
+#     decimal = 4.5
+#     text = "12"
+#
+#     print(number + decimal)
+#     print(text + str(number))
+#     print(type(number + decimal))
+#     print(type(text + str(number)))
+#
+# My predictions:
+# Line 1: __________________
+# Line 2: __________________
+# Line 3: __________________
+# Line 4: __________________
+#
+# Run the program and check your answers.
+#
+# Finally, explain in a comment why the two results
+# have different data types.
+
+
+
+
 
 
