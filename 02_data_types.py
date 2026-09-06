@@ -122,3 +122,19 @@ print("Available:", available, type(available))
 print("Complex Number:", complex_number, type(complex_number))
 
 # --------------------------------------------------------
+
+# Q7. What do you think each expression produces?
+#
+#     result1 = "10" + "20"
+#     result2 = 10 + 20
+#     result3 = 10 * 2.5
+#     result4 = 8 > 3
+#
+# Print each result and its type.
+#
+# Pay attention to the difference between
+# text, numbers, decimals, and Boolean values.
+
+
+
+
