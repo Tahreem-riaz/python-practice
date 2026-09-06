@@ -33,4 +33,12 @@ print(donated_materials, type(donated_materials))
 #
 #     Print the value and type of each variable.
 
+number_of_pages = 350
+temperature = 32.5
+laptop_price = 85000.75
 
+print(number_of_pages, type(number_of_pages))
+print(temperature, type(temperature))
+print(laptop_price, type(laptop_price))
+
+# --------------------------------------------------------
