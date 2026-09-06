@@ -47,3 +47,15 @@ print(laptop_price, type(laptop_price))
 #     variables.
 #
 #     Display all four values along with their data types.
+
+integer1 = 10
+integer2 = 25
+float1 = 5.5
+float2 = 12.75
+
+print(integer1, type(integer1))
+print(integer2, type(integer2))
+print(float1, type(float1))
+print(float2, type(float2))
+
+# ========================================================
