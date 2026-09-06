@@ -24,3 +24,13 @@ print(number_of_books, type(number_of_books))
 print(donated_materials, type(donated_materials))
 
 # --------------------------------------------------------
+
+# Q2. Create variables for:
+#
+#     - The number of pages in a book
+#     - The temperature of a city
+#     - The price of a laptop
+#
+#     Print the value and type of each variable.
+
+
