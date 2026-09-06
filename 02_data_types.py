@@ -71,3 +71,13 @@ print(float2, type(float2))
 #     - A GitHub repository name
 #
 #     Print each value and its type.
+
+programming_language = "Python"
+software_version = "Python 3.14"
+github_repository = "Python-Practice"
+
+print(programming_language, type(programming_language))
+print(software_version, type(software_version))
+print(github_repository, type(github_repository))
+
+# --------------------------------------------------------
