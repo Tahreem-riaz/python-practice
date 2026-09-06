@@ -42,3 +42,8 @@ print(temperature, type(temperature))
 print(laptop_price, type(laptop_price))
 
 # --------------------------------------------------------
+
+# Q3. Create two integer variables and two float
+#     variables.
+#
+#     Display all four values along with their data types.
