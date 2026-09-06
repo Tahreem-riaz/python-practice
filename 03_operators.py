@@ -6,3 +6,7 @@ Topics: Arithmetic, Comparison, Assignment, Logical,
         Membership, Identity, Bitwise Operators
 ========================================================
 """
+
+# ========================================================
+# PART A: ARITHMETIC OPERATORS
+# ========================================================
