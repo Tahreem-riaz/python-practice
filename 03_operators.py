@@ -57,7 +57,7 @@ player_score = 650
 
 can_unlock_level = player_score >= 500
 
-print("Can Unlock Level:", can_unlock)
+print("Can Unlock Level:", can_unlock_level)
 
 # --------------------------------------------------------
 
@@ -73,6 +73,19 @@ print("Can Unlock Level:", can_unlock)
 #     - Add 1,000
 #
 #     Print the balance after each operation.
+
+balance = 2000
+
+balance += 500
+print("After Adding 500:", balance)
+
+balance -= 250
+print("After Subtracting 250:", balance)
+
+balance += 1000
+print("After Adding 1000:", balance)
+
+# --------------------------------------------------------
 
 
 
