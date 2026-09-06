@@ -16,3 +16,13 @@ Topics: Arithmetic, Comparison, Assignment, Logical,
 #
 #     Calculate and print the total cost.
 
+ticket_price = 750
+number_of_tickets = 4
+
+total_cost = ticket_price * number_of_tickets
+
+print("Total Cost:", total_cost, "PKR")
+
+# --------------------------------------------------------
+
+
