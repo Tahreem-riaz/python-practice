@@ -99,7 +99,14 @@ print("After Adding 1000:", balance)
 #     Create suitable variables and use the 'and'
 #     operator to determine whether they can participate.
 
+age = 18
+valid_registration = True
 
+can_participate = age >= 18 and valid_registration
+
+print("Can Participate:", can_participate)
+
+# --------------------------------------------------------
 
 
 
