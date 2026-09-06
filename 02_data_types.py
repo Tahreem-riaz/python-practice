@@ -90,3 +90,11 @@ print(github_repository, type(github_repository))
 #     Print their values and data types.
 #
 #     Observe the difference between the two.
+
+item_code = "A102"
+item_number = 102
+
+print(item_code, type(item_code))
+print(item_number, type(item_number))
+
+# --------------------------------------------------------
